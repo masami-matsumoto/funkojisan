@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* レイアウトのためのCSS */
 body {
-  background: #000;
+  background: #c5ad8f;
   font-family: 'Noto Sans JP', sans-serif;
   color: #eee;
   font-size: 1rem;
@@ -87,7 +87,7 @@ h2 {
 }
 /* header */
 #header {
-  background: #000;
+  background: #851218;
 }
 #header h1 a {
   color: #ddd;
@@ -176,6 +176,9 @@ body.appear #vidual-area::after {
 #vidual-area ul img {
   width: 20px;
 }
+.vidual-area_h2 {
+  color: #851218;
+}
 @media screen and (max-width:960px) {
   #vidual-area {
     height: 90vh;
@@ -236,7 +239,7 @@ body.appear #vidual-area::after {
   right: 0;
   width: 80%;
   height: 60vh;
-  background: #232323;
+  background: #851218;
   z-index: -1;
   animation-name: sevicebgRLextendAnime;
   animation-duration: .9s;
@@ -322,15 +325,15 @@ body.appear #vidual-area::after {
 }
 #news .area time {
   display: block;
-  color: #aaa;
+  color: #851218;
 }
 #news .tab {
   position: relative;
   top: 1px;
 }
 #news .tab-choice-area {
-  border-top: 1px solid #aaa;
-  border-left: 1px solid #aaa;
+  border-top: 1px solid #000;
+  border-left: 1px solid #000;
 }
 @media only screen and (max-width: 1110px) {
   .tab-area {
@@ -414,7 +417,7 @@ body.appear #vidual-area::after {
   align-items: center;
   opacity: 0.8;
   padding: 5%;
-  background: #000;
+  background: #851218;
 }
 #footer .footer-info {
   width: 30%;

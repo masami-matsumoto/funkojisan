@@ -67,7 +67,7 @@ nav li.has-child ul {
   top: 62px;
   z-index: 4;
   /*形状を指定*/
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(133, 18, 24, 0.6);
   width: 250px;
   /*はじめは非表示*/
   visibility: hidden;
@@ -451,7 +451,7 @@ nav li.has-child ul li a:hover, nav li.has-child ul li a:active {
   align-items: center;
   width: 50px;
   height: 50px;
-  border: 1px solid #adadad;
+  border: 1px solid #fff;
   color: #fff;
   text-align: center;
   text-transform: uppercase;
@@ -460,7 +460,7 @@ nav li.has-child ul li a:hover, nav li.has-child ul li a:active {
   transition: all 0.3s;
 }
 #page-top a:hover {
-  background: #777;
+  background: #000;
 }
 /*リンクを右下に固定*/
 #page-top {
@@ -530,7 +530,7 @@ nav li.has-child ul li a:hover, nav li.has-child ul li a:active {
   border-right: #000 1px solid;
   border-left: transparent 1px solid;
   padding: 8px 30px;
-  background: #333;
+  background: #000;
 }
 @media screen and (max-width:400px) {
   .tab li a {
@@ -539,7 +539,7 @@ nav li.has-child ul li a:hover, nav li.has-child ul li a:active {
 }
 /*liにactiveクラスがついた時の形状*/
 .tab li.active a {
-  background: #000;
+  background: #851218;
   border-top: #aaa 1px solid;
   border-color: #aaa;
 }
