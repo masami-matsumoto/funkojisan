@@ -1,0 +1,42 @@
+
+    
+     <div class="Form">
+      <div class="Form-Item">
+        <p class="Form-Item-Label"><span class="Form-Item-Label-Required">必須</span>お名前</p>
+        [mwform_text name="name" id="name" class="Form-Item-Input" size="60" placeholder="例）山田太郎"]
+      </div>
+      <div class="Form-Item">
+          <p class="Form-Item-Label"><span class="Form-Item-Label-Required">必須</span>フリガナ</p>
+          [mwform_text name="kana" id="kana" class="Form-Item-Input" size="60" placeholder="例）ヤマダタロウ"]
+      </div>
+      <div class="Form-Item">
+          <p class="Form-Item-Label"><span class="Form-Item-Label-Required">必須</span>住所</p>
+          <div class="mwform-zip-box">
+            [mwform_text name="zip" id="zip" class="Form-zip-Input" size="20"]
+          
+            [mwform_text name="addr" id="addr" class="Form-Item-Input" size="60"]
+         </div>
+      </div>
+      <div class="Form-Item">
+        <p class="Form-Item-Label"><span class="Form-Item-Label-Required">必須</span>電話番号</p>
+        [mwform_text name="tel" class="Form-Item-Input" placeholder="例）000-0000-0000"]
+      </div>
+      <div class="Form-Item">
+        <p class="Form-Item-Label"><span class="Form-Item-Label-Required">必須</span>メールアドレス</p>
+        [mwform_text name="email" id="email" class="Form-Item-Input" size="60" placeholder="例）example@gmail.com"]
+      </div>
+      <div class="Form-Item">
+          <p class="Form-Item-Label"><span class="Form-Item-Label-Required">必須</span>お問い合わせ種類</p>
+          [mwform_select name="select" id="select" class="Form-Item-Input" children=":選択してください,ギター、ベースのリペア、メンテナンス,アンプ、エフェクターのリペア、メンテナンス,オリジナル製品、オーダー品について,中古買取、委託販売依頼について,その他のお問い合わせ" post_raw="true"]
+      </div>
+      <div class="Form-Item">
+      <p class="Form-Item-Label">添付ファイル<br><span class="Form-Item-img-sizu">添付できるファイルの形式は「jpg」「jpeg」「png」です。</span></p>
+      [mwform_image name="画像" id="file_img" class="Form-Item-img"]
+      </div>
+      <div class="Form-Item">
+        <p class="Form-Item-Label isMsg"><span class="Form-Item-Label-Required">必須</span>お問い合わせ内容</p>
+        [mwform_textarea name="textarea" id="textarea" class="Form-Item-textarea" cols="50" rows="5"]
+      </div>
+      [mwform_submitButton name="submit" class="Form-Btn" confirm_value="確認画面へ" submit_value="送信"]
+      [mwform_backButton class="Form-Btn" value="戻る"]
+    </div>
