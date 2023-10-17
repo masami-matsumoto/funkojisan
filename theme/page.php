@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 <main id="main-area">
-<section class="section">
+<section class="section fixed_page">
 <h2>
   <?php the_title(); ?>
 </h2>

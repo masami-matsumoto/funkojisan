@@ -31,11 +31,11 @@
       <!-- <dt>Follow Us</dt> -->
       <dd>
         <ul>
-          <li><a href="#"><img src="<?php echo get_template_directory_uri(); ?>/img/ico_youtube.svg" alt=""></a></li>
-          <li><a href="#"><img src="<?php echo get_template_directory_uri(); ?>/img/ico_music.svg" alt=""></a></li>
-          <li><a href="#"><img src="<?php echo get_template_directory_uri(); ?>/img/ico_fb.svg" alt=""></a></li>
-          <li><a href="#"><img src="<?php echo get_template_directory_uri(); ?>/img/ico_tw.svg" alt=""></a></li>
-          <li><a href="#"><img src="<?php echo get_template_directory_uri(); ?>/img/ico_insta.svg" alt=""></a></li>
+          <li><a href="https://www.youtube.com/@funkojisan4807"><img src="<?php echo get_template_directory_uri(); ?>/img/ico_youtube.svg" alt=""></a></li>
+          <!-- <li><a href="#"><img src="/img/ico_music.svg" alt=""></a></li> -->
+          <li><a href="https://www.facebook.com/profile.php?id=100054525036947"><img src="<?php echo get_template_directory_uri(); ?>/img/ico_fb.svg" alt=""></a></li>
+          <li><a href="https://twitter.com/funk_ojisan"><img src="<?php echo get_template_directory_uri(); ?>/img/ico_tw.svg" alt=""></a></li>
+          <li><a href="https://www.instagram.com/funkojisan/?hl=ja"><img src="<?php echo get_template_directory_uri(); ?>/img/ico_insta.svg" alt=""></a></li>
         </ul>
       </dd>
     </dl>
@@ -153,7 +153,7 @@
     <?php
         $args = array(
           'post_type' => array('original_guitar','effector','pick_up','amplifier','other'),
-          'category_name' => 'pick-up',
+          'category_name' => 'pickupitems',
           'posts_per_page' => 8,
         );
         $news_posts = new WP_Query( $args );

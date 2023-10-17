@@ -304,9 +304,10 @@ body.appear #vidual-area::after {
 }
 .news-img {
   height: 60vh;
-  background: url("../img/top.jpg") no-repeat center;
+  background: url("../img/funkojisan_main_image@2x.png") no-repeat center;
   background-size: cover;
 }
+/* 黒いアンダーライン
 .news-img::after {
   content: '';
   position: absolute;
@@ -316,7 +317,7 @@ body.appear #vidual-area::after {
   height: 10vh;
   background: #000;
   z-index: 2;
-}
+} */
 #news {
   padding: 0 0 5% 15%;
 }
@@ -587,6 +588,9 @@ body.page #footer {
 .blog-category a {
   color: #851218;
 }
+.has-text-align-center {
+  text-align: left;
+}
 /* ページネイション */
 .pagination {
   margin: 40px 0 0;
@@ -630,6 +634,9 @@ body.page #footer {
     display: inline-block;
     gap: 15px;
     flex-wrap: wrap;
+  }
+  .fixed_page p {
+    text-align: left;
   }
 }
 /* 商品ページ */

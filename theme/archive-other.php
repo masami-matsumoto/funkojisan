@@ -2,7 +2,7 @@
   <main id="main-area">
     <section class="section">
       <h2>Other</h2>
-      <figure><img src="<?php echo get_template_directory_uri(); ?>/img/blog.jpg" alt=""/></figure>
+      <figure><img src="<?php echo get_template_directory_uri(); ?>/img/funkojisan_others_top@2x.png" alt=""/></figure>
       <div class="container">
         <div class="post zoomInRotate"> 
         <?php
