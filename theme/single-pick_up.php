@@ -30,14 +30,7 @@
         <p class="detail">価格：<?php the_field('price'); ?>円（税込）</p>
         <p class="detail">在庫：<?php the_field('stock'); ?></p>
         <p class="detail-area"><?php the_field('comment'); ?></p>
-        <?php if( get_field('button') ) { ?>
-          <?php $button = get_field('button');
-          if($button === 'STOREへ'){ ?>
-            <p class="detail-btn"><a href="<?php the_field('store-url'); ?>" class="btn">STORE</a></p>
-          <?php }else { ?>
-            <h3 class="detail-msg">こちらの商品はお問い合わせくださいませ。</h3>
-          <?php } ?>
-          <?php } ?>
+        <p class="detail-btn"><a href="https://funkojisan.shop/" class="btn">STORE</a></p>
           <p class="detail-btn"><a href="/contact/" class="btn">お問い合わせ</a></p>
           <!-- youtube area1 -->
           <?php
