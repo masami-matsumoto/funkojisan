@@ -1,0 +1,13 @@
+funkojisan
+
+single_page
+ストアかお問合せかのif文
+
+ <?php if( get_field('button') ) { ?>
+ <?php $button = get_field('button');
+ if($button === 'STOREへ'){ ?>
+ <p class="detail-btn"><a href="<?php the_field('store-url'); ?>" class="btn">STORE</a></p>
+ <?php }else { ?>
+ <h3 class="detail-msg">こちらの商品はお問い合わせくださいませ。</h3>
+ <?php } ?>
+ <?php } ?>

@@ -1,0 +1,352 @@
+{
+    "RPT": {
+        "ScanTime": "0.077 sec.",
+        "ScanFile": "20230318_e382aee382bfe383bce5b18bfunkoj_517c09d77534c9bb6128_20230318070935_scan.json",
+        "ScanCreated": "2023-03-18 07:10:31",
+        "ScanPath": "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-content\/backups-dup-pro\/tmp\/20230318_e382aee382bfe383bce5b18bfunkoj_517c09d77534c9bb6128_20230318070935_scan.json"
+    },
+    "ARC": {
+        "Size": "159.08MB",
+        "DirCount": "251",
+        "FileCount": "2,545",
+        "FullCount": "2,796",
+        "USize": 166806853,
+        "UDirCount": 251,
+        "UFileCount": 2545,
+        "UFullCount": 2796,
+        "UnreadableDirCount": 0,
+        "UnreadableFileCount": 0,
+        "FilterDirsAll": [
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/.opcache",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/.tmb",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-content",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-content\/ai1wm-backups",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-content\/backups-dup-lite",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-content\/backups-dup-pro",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-content\/backups-dup-pro",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-content\/backupwordpress",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-content\/bps-backup",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-content\/cache",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-content\/content\/cache",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-content\/contents\/cache",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-content\/infinitewp\/backups",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-content\/managewp\/backups",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-content\/old-cache",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-content\/plugins\/all-in-one-wp-migration\/storage",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-content\/plugins\/really-simple-captcha\/tmp",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-content\/plugins\/wordfence\/tmp",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-content\/updraft",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-content\/uploads\/aiowps_backups",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-content\/uploads\/backup-guard",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-content\/uploads\/backupbuddy_backups",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-content\/uploads\/backupbuddy_temp",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-content\/uploads\/ithemes-security\/backups",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-content\/uploads\/mainwp\/backup",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-content\/uploads\/pb_backupbuddy",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-content\/uploads\/snapshots",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-content\/uploads\/sucuri",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-content\/uploads\/wp-clone",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-content\/uploads\/wp_all_backup",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-content\/uploads\/wpbackitup_backups",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-content\/wfcache",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-content\/wishlist-backup",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-content\/wpvividbackups",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-snapshots"
+        ],
+        "FilterFilesAll": [
+            ".DS_Store",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/.htaccess",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/.user.ini",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/php.ini",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/web.config",
+            "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-config.php",
+            "dbcache",
+            "debug_log",
+            "error_log",
+            "objectcache",
+            "pgcache",
+            "ws_ftp.log"
+        ],
+        "FilterExtsAll": [],
+        "FilteredCoreDirs": {
+            "2": "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-content"
+        },
+        "FilteredSites": [],
+        "Status": {
+            "Size": "Good",
+            "Big": "Warn",
+            "AddonSites": "Good",
+            "UnreadableItems": "Good",
+            "showCreateFuncStatus": "Good",
+            "showCreateFunc": true,
+            "HasImportableSites": true,
+            "HasNotImportableSites": false,
+            "HasFilteredCoreFolders": true,
+            "HasFilteredSiteTables": false,
+            "HasFilteredSites": false,
+            "Network": "Good",
+            "IsDBOnly": 0,
+            "PackageIsNotImportable": false
+        },
+        "RecursiveLinks": [],
+        "UnreadableItems": [],
+        "Subsites": [
+            {
+                "id": 1,
+                "domain": "psynogroup.boo.jp",
+                "path": "\/koiwafunk\/",
+                "blogname": "\u30ae\u30bf\u30fc\u5c4bfunk ojisan",
+                "blog_prefix": "wp1_",
+                "filteredTables": [],
+                "adminUsers": [
+                    {
+                        "ID": "1",
+                        "user_login": "guitarmonkey",
+                        "id": "1"
+                    }
+                ],
+                "fullHomeUrl": "http:\/\/psynogroup.boo.jp\/koiwafunk",
+                "fullSiteUrl": "http:\/\/psynogroup.boo.jp\/koiwafunk",
+                "uploadPath": "wp-content\/uploads",
+                "fullUploadPath": "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-content\/uploads",
+                "fullUploadSafePath": "\/home\/users\/2\/boo.jp-psynogroup\/web\/koiwafunk\/wp-content\/uploads",
+                "fullUploadUrl": "http:\/\/psynogroup.boo.jp\/koiwafunk\/wp-content\/uploads",
+                "filteredPaths": []
+            }
+        ]
+    },
+    "SRV": {
+        "Brand": {
+            "LogoAttachmentExists": false,
+            "LogoCount": 0,
+            "LogoFinded": 0,
+            "LogoImageExists": true,
+            "LogoImages": [],
+            "Name": "Default",
+            "Notes": "The default content used when a brand is not defined"
+        },
+        "HOST": [],
+        "PHP": {
+            "websrv": true,
+            "openbase": true,
+            "maxtime": true,
+            "openssl": true,
+            "mysqli": true,
+            "allowurlfopen": true,
+            "curlavailable": true,
+            "arch64bit": true,
+            "minMemory": true,
+            "version": true,
+            "ALL": "Good"
+        },
+        "WP": {
+            "version": true,
+            "core": false,
+            "ismu": false,
+            "ismuplus": false,
+            "securityPlugins": false,
+            "ALL": "Warn"
+        }
+    },
+    "DB": {
+        "Status": {
+            "Success": true,
+            "Size": "Good",
+            "Rows": "Good",
+            "Triggers": "Good"
+        },
+        "Size": "28.45MB",
+        "Rows": "41,968",
+        "TableCount": 31,
+        "TableList": {
+            "wp1_actionscheduler_actions": {
+                "Case": 0,
+                "Rows": "33",
+                "Size": "128KB",
+                "USize": "131072"
+            },
+            "wp1_actionscheduler_claims": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": "32768"
+            },
+            "wp1_actionscheduler_groups": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": "32768"
+            },
+            "wp1_actionscheduler_logs": {
+                "Case": 0,
+                "Rows": "83",
+                "Size": "48KB",
+                "USize": "49152"
+            },
+            "wp1_aioseo_cache": {
+                "Case": 0,
+                "Rows": "18",
+                "Size": "144KB",
+                "USize": "147456"
+            },
+            "wp1_aioseo_notifications": {
+                "Case": 0,
+                "Rows": "4",
+                "Size": "96KB",
+                "USize": "98304"
+            },
+            "wp1_aioseo_posts": {
+                "Case": 0,
+                "Rows": "1,686",
+                "Size": "1.41MB",
+                "USize": "1474560"
+            },
+            "wp1_commentmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": "49152"
+            },
+            "wp1_comments": {
+                "Case": 0,
+                "Rows": "10",
+                "Size": "96KB",
+                "USize": "98304"
+            },
+            "wp1_duplicator_packages": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": "32768"
+            },
+            "wp1_duplicator_pro_entities": {
+                "Case": 0,
+                "Rows": "5",
+                "Size": "32KB",
+                "USize": "32768"
+            },
+            "wp1_duplicator_pro_packages": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": "32768"
+            },
+            "wp1_ewwwio_images": {
+                "Case": 0,
+                "Rows": "12,967",
+                "Size": "5.34MB",
+                "USize": "5603328"
+            },
+            "wp1_ewwwio_queue": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": "32768"
+            },
+            "wp1_links": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "32KB",
+                "USize": "32768"
+            },
+            "wp1_mclean_refs": {
+                "Case": 0,
+                "Rows": "1,414",
+                "Size": "144KB",
+                "USize": "147456"
+            },
+            "wp1_mclean_scan": {
+                "Case": 0,
+                "Rows": "1,218",
+                "Size": "208KB",
+                "USize": "212992"
+            },
+            "wp1_options": {
+                "Case": 0,
+                "Rows": "478",
+                "Size": "2.13MB",
+                "USize": "2228224"
+            },
+            "wp1_postmeta": {
+                "Case": 0,
+                "Rows": "20,428",
+                "Size": "12.02MB",
+                "USize": "12599296"
+            },
+            "wp1_posts": {
+                "Case": 0,
+                "Rows": "2,817",
+                "Size": "6.05MB",
+                "USize": "6340608"
+            },
+            "wp1_termmeta": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "48KB",
+                "USize": "49152"
+            },
+            "wp1_terms": {
+                "Case": 0,
+                "Rows": "48",
+                "Size": "48KB",
+                "USize": "49152"
+            },
+            "wp1_term_relationships": {
+                "Case": 0,
+                "Rows": "651",
+                "Size": "80KB",
+                "USize": "81920"
+            },
+            "wp1_term_taxonomy": {
+                "Case": 0,
+                "Rows": "52",
+                "Size": "48KB",
+                "USize": "49152"
+            },
+            "wp1_usermeta": {
+                "Case": 0,
+                "Rows": "32",
+                "Size": "48KB",
+                "USize": "49152"
+            },
+            "wp1_users": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "64KB",
+                "USize": "65536"
+            },
+            "wp1_wdslayer": {
+                "Case": 0,
+                "Rows": "0",
+                "Size": "16KB",
+                "USize": "16384"
+            },
+            "wp1_wdsslide": {
+                "Case": 0,
+                "Rows": "11",
+                "Size": "16KB",
+                "USize": "16384"
+            },
+            "wp1_wdsslider": {
+                "Case": 0,
+                "Rows": "2",
+                "Size": "16KB",
+                "USize": "16384"
+            },
+            "wp1_wpmailsmtp_debug_events": {
+                "Case": 0,
+                "Rows": "10",
+                "Size": "16KB",
+                "USize": "16384"
+            },
+            "wp1_wpmailsmtp_tasks_meta": {
+                "Case": 0,
+                "Rows": "1",
+                "Size": "16KB",
+                "USize": "16384"
+            }
+        },
+        "FilteredTables": []
+    },
+    "Status": 1
+}
